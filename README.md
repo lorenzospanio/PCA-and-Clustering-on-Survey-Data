@@ -2,7 +2,7 @@
 
 # Personality Archetype Analysis using PCA and k-Means
 
-This repository contains a university project focused on leveraging dimensionality reduction and clustering techniques to analyze a survey dataset of young adults. The primary goal is to uncover "personality archetypes"—distinct groups of individuals sharing similar traits, interests, and habits—from a high-dimensional dataset.
+This repository contains a university project focused on leveraging dimensionality reduction and clustering techniques to analyze a survey dataset of young adults. The primary goal is to uncover "personality archetypes" distinct groups of individuals sharing similar traits, interests, and habits from a high-dimensional dataset.
 
 ## Project Overview
 
